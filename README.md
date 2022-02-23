@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SidAhmed Aboura
-- 👀 I’m interested in web devloppement and also mobile
+- 👀 I’m interested in sofwtare devloppement
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on project for flutter-laravel
 
